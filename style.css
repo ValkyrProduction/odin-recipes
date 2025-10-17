@@ -1,0 +1,48 @@
+.Logo {
+    width: 100vw;
+    margin: 0 0px;
+    padding: 5px 0;
+    background-color: white;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    border-bottom: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#sauerbratenImg img {
+    height: 400px;
+    width: 100%;
+    border: 1px solid #ccc;
+}
+
+#sauerbratenImg {
+    text-align: center;
+}
+
+#recipeOfTheDay h3 {
+    color: #cc0909;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover {
+    color: rgb(112, 112, 112);
+}
+
+#prep li {
+    list-style: none;
+}
+
+#ingredients li {
+    list-style: none;
+}
+
+.steps h2 {
+    text-align: center;
+}
